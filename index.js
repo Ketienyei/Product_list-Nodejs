@@ -17,9 +17,3 @@ app.listen(process.env.port || 4000, ()=>{
 
 
 
-//git init
-//git add README.md
-//git commit -m "first commit"
-//git branch -M main
-//git remote add origin https://github.com/Ketienyei/product_list.git
-g//it push -u origin main
