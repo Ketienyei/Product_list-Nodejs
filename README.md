@@ -1,3 +1,3 @@
 # product_list
-updates 
+updated 
 
